@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+![](/home/screen_shot_2022-02-13_at_4.02.07_pm.png)
 
-You can use the [editor on GitHub](https://github.com/hemmgavin/hemmgavin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Prologue**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The use of data in innovative ways is driving and transforming healthcare and life sciences more than ever. In healthcare, advanced analytics are improving clinical support, value-based care, population health, and management of at-risk populations. In life sciences, big data and advanced analytics are transforming clinical trials, precision health, diagnostics, and the drug development process, among a myriad of other areas. The availability of health and health related data assets is foundational to this advancement in health information technology (HIT).
 
-### Markdown
+Indiana’s history of leadership in HIT spans more than 50 years. Many milestones and unique initiatives underscore this leadership, including:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-   In the 1960’s, Indiana entrepreneur Sam Regenstrief perfected the automatic front-loading dishwasher, and then became the first to install digital controls on these appliances. Regenstrief reasoned that the use of digital information could drive even more stunning advances in healthcare to improve care and reduce cost. Accordingly, in 1969, the Regenstrief Institute was established by Sam and Myrtie Regenstrief to improve quality of care, increase efficiency of healthcare delivery, prevent medical errors, and enhance patient safety.
+-   In 1994, the Indiana Network for Patient Care (INPC), was created by the Regenstrief Institute to enable the secure exchange of health information. In 2004, five premier and highly competitive primary and specialty care health systems in Central Indiana joined the INPC to improve communication among the systems and facilitate the delivery of better healthcare. In cooperation with Regenstrief and through the generous participation of leading philanthropic organizations, the Indiana Health Information Exchange (IHIE) was formed to manage the growing INPC. The INPC today is the nation’s largest interorganizational clinical data repository and serves as a model for regional health exchanges.
+-   In 2017, the State of Indiana passed House Bill 1470 to establish the Management Performance Hub (MPH), the role of the Chief Data Officer, and formally codify the open sharing of information between state agencies, including public health data and statistics. Also known as the Open Data Bill, it formalized data-driven decision making to drive informed policy decisions as well as improve services and programs. This bill also tasked the MPH to reduce the technology and legal barriers for “unlocking” state data and sharing with community partners to improve outcomes, including public health outcomes.
 
-```markdown
-Syntax highlighted code block
+Based on the data resources available within industry, government, health systems, academia, and digital health startups, Indiana has a potentially unique opportunity to anchor the state as the crossroads of data/analytics and healthcare/life sciences. However, the health data community must work together to ensure awareness of the data, talent, and technology resources available and build where there are gaps. 
 
-# Header 1
-## Header 2
-### Header 3
+The COVID-19 pandemic created a unique opportunity to demonstrate the value of the health data community working together. From the start of this pandemic, a broad contingent of professionals across government, health systems, university, life sciences industry, and non-profit sectors came together to form the Indiana Pandemic Information Collaborative (IPIC). IPIC has allowed the health data organizations the ability to maximize the impact of their collective efforts and to better inform key leaders about the health of our shared community. Public facing dashboards, predictive models for the state and hospital systems, accessibility of data for non-profit leaders, improved coordination around national collaborations, and connectivity to novel solutions from the for-profit sector have all been part of the platform. IPIC’s goal is to work together to share data, information, and knowledge to ​beat COVID-19 and keep Indiana healthy and safe.
 
-- Bulleted
-- List
+IPIC is one example of the community working together to tackle a major healthcare challenge, but there are other initiatives working on diabetes, Alzheimer’s, and more.  Still, there may be additional opportunities to extend this kind of collaboration to other disease states such as kidney disease and neurological disorders. BioCrossroads developed the Book of Data and Organizations based on this opportunity and its role as convener, since it does not directly own or analyze data.
 
-1. Numbered
-2. List
+There are numerous audiences for this resource, each of which will likely utilize it in a slightly different way. A few examples include:
 
-**Bold** and _Italic_ and `Code` text
+-   Health and health-related data organizations: to improve partnerships based on a heightened awareness of each other’s assets and capabilities
+-   Community Based Organizations (i.e., community nonprofits): to improve coalition building (e.g., Monon Collaborative)
+-   Academic scientists: to improve awareness of data assets that can improve disease understanding, process improvements, or assessing new technologies and methods
+-   Industry partners: to better understand who has what data, what the data is used for, how to access the data, and where the talent and technology capabilities exists to analyze the data
 
-[Link](url) and ![Image](src)
-```
+Ideally, this resource reduces the need to seek health data assets elsewhere, establish more ideal partnerships locally, and attract outside organizations to collaborate with Indiana based organizations. Improved coordination across the health-data intersection can improve recruiting and retention, leverage investments, and drive economic growth for the state. The key to maximizing value is improving intentionality with collaborations, executing cross-organizational projects where partners can improve or accelerate efforts, and building in the “grey space”, adjacent areas where the collective community lacks capacity. This document is one resource to support this opportunity.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**About BioCrossroads**
 
-### Jekyll Themes
+BioCrossroads advances Indiana’s life sciences industry by connecting with corporate, academic, and philanthropic partners; facilitating investments in promising startups and building new enterprises; and educating through conferences, reports and market development knowledge. By collaborating with Indiana’s research institutions, global companies, philanthropic organizations, and government to advance growth and innovation, we make connections for all of Indiana’s life sciences community and work to accelerate its success. We are promoting and growing this critical sector for both the health of patients around the world as well as the economic health of Indiana.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hemmgavin/hemmgavin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Executive Summary**
 
-### Support or Contact
+There are tremendous data, talent, and technology resources available within Indiana’s industry, government, health systems, academia, and digital health startups, giving Indiana a unique opportunity to innovate and collaborate together for better health outcomes and life sciences research. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This *Book of Data and Organizations* has been created to chronicle the assets Indiana has at the health-data intersection to help improve the coordination of these organizations and those that work with them. This resource is not an assessment, but a directory for some of our resources. There are extensive activities occurring here in Indiana that should be highlighted and promoted so that valuable relationships can be forged, and partnerships can be intentional.
+
+This draft includes snapshots of organizations who control data assets – data sets, data talent, and/or data technology – as well as cross-organizational initiatives. It also includes how these assets can be accessed. The organization profiles include:
+
+-   Who has what data? How can this data be accessed?
+-   Where does the data analysis talent reside?
+-   What data technologies and capabilities exist?
+-   What are the key projects currently in process? 
+-   What are the future projects and opportunities for engagement?
+
+This document will continue to expand both in number of organizations represented as well as depth of information for each organization. It will also grow to describe additional cross-organizational initiatives where partnerships are critical to success. This document will be fully refreshed annually, with additional organizations and initiatives added on a rolling basis. The most recent version is available at [www.biocrossroads](http://www.biocrossroads).com. If you are interested in having your organization or initiative included, please contact Darshan Shah at [dshah@biocrossroads.com](mailto:dshah@biocrossroads.com)
