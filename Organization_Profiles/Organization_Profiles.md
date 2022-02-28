@@ -4,6 +4,6 @@ These organizations manage numerous data assets including clinical, lab, and pha
 
 [Nonprofit/Academia](/org_profiles/nonprofit-academia)
 
-[For Profit](/org_profiles/for-profit)
+[For Profit](https://github.com/hemmgavin/hemmgavin.github.io/raw/main/Organization_Profiles/For_Profit/for_profit.md)
 
 [Hospital Systems](/org_profiles/hospital-systems)
