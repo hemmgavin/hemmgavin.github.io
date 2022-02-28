@@ -35,7 +35,7 @@ There are tremendous data, talent, and technology resources available within In
 
 This *Book of Data and Organizations* has been created to chronicle the assets Indiana has at the health-data intersection to help improve the coordination of these organizations and those that work with them. This resource is not an assessment, but a directory for some of our resources. There are extensive activities occurring here in Indiana that should be highlighted and promoted so that valuable relationships can be forged, and partnerships can be intentional.
 
-This draft includes snapshots of [organizations](https://github.com/hemmgavin/hemmgavin.github.io/raw/main/Organization_Profiles/Organization_Profiles.md) who control data assets – data sets, data talent, and/or data technology – as well as cross-organizational initiatives. It also includes how these assets can be accessed. The organization profiles include:
+This draft includes snapshots of organizations who control data assets – data sets, data talent, and/or data technology – as well as cross-organizational initiatives. It also includes how these assets can be accessed. The organization profiles include:
 
 -   Who has what data? How can this data be accessed?
 -   Where does the data analysis talent reside?
@@ -44,3 +44,5 @@ This draft includes snapshots of [organizations](https://github.com/hemmgavin/he
 -   What are the future projects and opportunities for engagement?
 
 This document will continue to expand both in number of organizations represented as well as depth of information for each organization. It will also grow to describe additional cross-organizational initiatives where partnerships are critical to success. This document will be fully refreshed annually, with additional organizations and initiatives added on a rolling basis. The most recent version is available at [www.biocrossroads.com](http://www.biocrossroads.com). If you are interested in having your organization or initiative included, please contact Darshan Shah at [dshah@biocrossroads.com](mailto:dshah@biocrossroads.com)
+
+[Test Link for Organizations](https://github.com/hemmgavin/hemmgavin.github.io/raw/main/Organization_Profiles/Organization_Profiles.md)
