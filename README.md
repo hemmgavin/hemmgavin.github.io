@@ -1,4 +1,4 @@
-![](/home/screen_shot_2022-02-13_at_4.02.07_pm.png)
+![Book of Data and Organizations](https://github.com/hemmgavin/hemmgavin.github.io/raw/main/pictures/BookOfData.png "Book of Data and Organizations")
 
 **Prologue**
 
